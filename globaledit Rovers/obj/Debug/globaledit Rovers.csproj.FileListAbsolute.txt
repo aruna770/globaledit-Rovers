@@ -1,0 +1,6 @@
+c:\users\aruna\documents\visual studio 2012\Projects\globaledit Rovers\globaledit Rovers\bin\Debug\globaledit Rovers.exe.config
+c:\users\aruna\documents\visual studio 2012\Projects\globaledit Rovers\globaledit Rovers\bin\Debug\globaledit Rovers.exe
+c:\users\aruna\documents\visual studio 2012\Projects\globaledit Rovers\globaledit Rovers\bin\Debug\globaledit Rovers.pdb
+c:\users\aruna\documents\visual studio 2012\Projects\globaledit Rovers\globaledit Rovers\obj\Debug\globaledit Rovers.exe
+c:\users\aruna\documents\visual studio 2012\Projects\globaledit Rovers\globaledit Rovers\obj\Debug\globaledit Rovers.pdb
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\globaledit Rovers\globaledit Rovers\obj\Debug\globaledit Rovers.csprojResolveAssemblyReference.cache
